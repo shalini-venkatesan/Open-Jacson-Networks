@@ -17,12 +17,14 @@ Visual components and Python
 
 
 ## Experiment:
-<img width="396" alt="image" src="https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/99d760d2-69ae-4b2f-9a68-d2a64857b4a1">
-<img width="396" alt="image" src="https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/68d9633c-cd1a-428e-a134-de3240a07389">
+
+<img width="392" alt="image" src="https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/9c2cf689-4693-41e9-a6ff-33981fd104e8">
+<img width="392" alt="image" src="https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/da398555-ece3-4bb2-b132-fb583029a075">
 
 
 
-## Program
+## Program:
+```
 DEVELOPED BY : SHALINI V
 REGISTER NO : 212222240096
 
@@ -62,7 +64,7 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
     print("Average waiting time of an object in the conveyor S3 : %0.2f secs"%Wq3)
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
-
+```
 ## Output
 <img width="393" alt="image" src="https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/bf9d7634-c6ad-4ec8-8d22-28fd3dba1c1d">
 
