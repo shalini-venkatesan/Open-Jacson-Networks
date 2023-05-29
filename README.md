@@ -18,8 +18,9 @@ Visual components and Python
 
 ## Experiment:
 
-<img width="392" alt="image" src="https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/9c2cf689-4693-41e9-a6ff-33981fd104e8">
-<img width="392" alt="image" src="https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/da398555-ece3-4bb2-b132-fb583029a075">
+![image](https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/2f54650c-9a2a-44c7-9c8a-d56a9ed0e908)
+
+![image](https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/828cb12e-6137-4a2e-99c9-a3c275258642)
 
 
 
@@ -66,7 +67,8 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 ```
 ## Output
-<img width="393" alt="image" src="https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/bf9d7634-c6ad-4ec8-8d22-28fd3dba1c1d">
+![image](https://github.com/shalini-venkatesan/Open-Jacson-Networks/assets/118720291/b46a1275-3df7-491d-9df9-028881ba7d47)
+
 
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
